@@ -1,16 +1,38 @@
-# React + Vite
+# 🚀 PopX UI – React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect, mobile-first **PopX UI** built using **React.js** and **React Router**, based on the provided Adobe XD design.  
+The app is centered on the webpage to simulate a mobile application experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+👉 **https://popx-ui-tau.vercel.app**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📱 Screens Implemented
+- ✅ Welcome Screen  
+- ✅ Login Screen  
+- ✅ Create Account Screen  
+- ✅ Account Settings Screen  
 
-## Expanding the ESLint configuration
+All screens are fully navigable using React Router.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React.js (Vite)**
+- **React Router DOM**
+- **HTML5**
+- **CSS3 (Pixel-perfect styling)**
+- **Vercel (Deployment)**
+
+---
+
+## ✨ Features
+- Mobile-first UI design
+- Centered mobile app layout on desktop
+- Clean and reusable components
+- Smooth navigation between pages
+- Form validation & disabled states
+- Deployed with proper routing support on Vercel
